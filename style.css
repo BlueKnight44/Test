@@ -2,3 +2,7 @@ body{
     background-image: url('dreamimage.png');
     background-size: cover;
 }
+
+h1{
+    color: #d4ecff;
+}
