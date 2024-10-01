@@ -10,9 +10,13 @@ h1{
     left:50%;
     transform: translateX(-50%);
     font-family: serif;
-    font-size: 4rem;
+    font-size: 8rem;
 }
 
 button{
+    background-color: white;
+}
+
+btn1{
     background-color: white;
 }
