@@ -6,11 +6,11 @@ body{
 h1{
     color: #d4ecff;
     position:absolute;
-    top:10%;
+    top:1%;
     left:50%;
     transform: translateX(-50%);
     font-family: serif;
-    font-size: 8rem;
+    font-size: 10rem;
 }
 
 button{
@@ -19,4 +19,5 @@ button{
 
 btn1{
     background-color: white;
+    font-size: large;
 }
